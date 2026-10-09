@@ -110,7 +110,7 @@ In your project's `.mcp.json` (or `~/.claude/settings.json` for global):
 ### 2. Or clone and run locally
 
 ```bash
-git clone https://github.com/Talap-creator/mcp-token-saver.git
+git clone https://github.com/burnrate-ai/mcp-token-saver.git
 cd mcp-token-saver
 npm install && npm run build
 ```
